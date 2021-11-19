@@ -1,6 +1,6 @@
 [![Java CI with Maven](https://github.com/jboss-javassist/javassist/actions/workflows/maven.yml/badge.svg)](https://github.com/jboss-javassist/javassist/actions/workflows/maven.yml)
 
-Java bytecode engineering toolkit
+Java bytecode engineering toolkitss
 ### [Javassist version 3](http://www.javassist.org)
 
 Copyright (C) 1999-2021 by Shigeru Chiba, All rights reserved.
